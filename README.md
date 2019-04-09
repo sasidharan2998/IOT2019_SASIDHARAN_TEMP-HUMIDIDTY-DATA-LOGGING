@@ -1,6 +1,7 @@
 # IOT2019_SASIDHARAN_TEMP&HUMIDITY DATA LOGGING
 
 ACKNOWLEDGEMENT
+
 I would like to express my special thanks of gratitude to my teacher mrs Kayalvizhi  jayavel  who gave me the golden opportunity to do this wonderful project on the topic temperature and humidity data logging  which also helped me in doing a lot of Research and i came to know about so many new things I am really thankful to them.
 
 Secondly i would also like to thank my parents and friends who helped me a lot in finalizing this project within the limited time frame.

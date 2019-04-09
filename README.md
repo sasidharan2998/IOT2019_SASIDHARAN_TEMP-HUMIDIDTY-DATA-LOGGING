@@ -37,4 +37,6 @@ DS3231 is a RTC (Real Time Clock) module. It is used to maintain the date and ti
 
 DHT11 is a Temperature come Humidity sensor. It sends the values of temperature and humidity as an 8-bit data serially through the output pin of the module. The library reads this data by using the software serial function of the Arduino.
 
+youtube link : https://www.youtube.com/watch?v=yUDJIgMzDX4&t=3s
+
 
